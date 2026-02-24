@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bs-express-api-blueprint
+  annotations:
+    github.com/project-slug: oliveiha/bs-express-api-blueprint
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
